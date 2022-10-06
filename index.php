@@ -10,6 +10,5 @@
     <?php 
         include "./Api.php"
     ?>
-    section
 </body>
 </html>
