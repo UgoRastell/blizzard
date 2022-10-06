@@ -8,7 +8,9 @@
 </head>
 <body>
     <?php 
-        include "./Api.php"
-    ?>
+        require_once "./Api.php"
+            ?>
+
+    <img src="" alt="">
 </body>
 </html>
